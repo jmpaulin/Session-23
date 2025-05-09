@@ -10,7 +10,9 @@ The twenty-third session of the LSSTC DSFP focuses on Statistics and Bayesian In
 Lectures were also delivered by the DSFP leadership team:
 
 - Dr. Adam Miller (CIERA | Northwestern)
-- Dr. Bryan Scott (CIERA | Northwestern) 
+- Dr. Bryan Scott (CIERA | Northwestern)
+
+Jillian Paulin is an author of this repository
 
 # Schedule
 
