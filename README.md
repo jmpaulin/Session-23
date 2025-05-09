@@ -12,7 +12,7 @@ Lectures were also delivered by the DSFP leadership team:
 - Dr. Adam Miller (CIERA | Northwestern)
 - Dr. Bryan Scott (CIERA | Northwestern)
 
-Jillian Paulin is an author of this repository
+Jillian Paulin is an author of this repository.
 
 # Schedule
 
